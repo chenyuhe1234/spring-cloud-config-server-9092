@@ -1,0 +1,9 @@
+
+# user-service.properties的测试
+http://192.168.80.160:9092/user-service.properties
+
+# user-service-test.properties的测试
+http://192.168.80.160:9092/user-service-test.properties
+
+# user-service-prd.properties的测试
+http://192.168.80.160:9092/user-service-prd.properties
